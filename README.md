@@ -33,3 +33,13 @@ Portfolio project in progress.
 - Evaluate warehouse inventory coverage against forecast demand.
 - Visualize inventory risks and key performance indicators using Power BI.
 - Compare simple forecasting methods using Python and evaluate prediction errors.
+
+  ## Key Results
+- Analyzed 91,250 supply chain records.
+- Built interactive Power BI dashboards for inventory value, stock risk, SKU performance, and warehouse analysis.
+- Created Python daily-demand forecasts and compared two simple forecasting methods.
+- The baseline average model achieved a Mean Absolute Error (MAE) of 671.32 units per day, outperforming the 7-day moving-average model (743.93 units per day).
+
+## Limitations
+- The dataset represents simulated supply chain data, not verified records from a real company.
+- The forecasting models are simple baselines and should be improved before being used for operational decisions.
