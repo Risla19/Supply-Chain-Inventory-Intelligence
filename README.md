@@ -26,3 +26,10 @@ This project analyzes inventory levels, replenishment requirements, warehouse pe
 
 ## Project Status
 Portfolio project in progress.
+
+## Project Objectives
+- Analyze inventory levels and inventory value across warehouses and SKUs.
+- Identify items requiring replenishment.
+- Evaluate warehouse inventory coverage against forecast demand.
+- Visualize inventory risks and key performance indicators using Power BI.
+- Compare simple forecasting methods using Python and evaluate prediction errors.
