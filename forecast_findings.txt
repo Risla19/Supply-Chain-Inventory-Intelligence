@@ -1,0 +1,7 @@
+Supply Chain Forecasting Findings
+---------------------------------
+Best model: Baseline Average
+Actual average daily sales: 4397.50
+Forecast average daily sales: 5068.82
+Mean Absolute Error (MAE): 671.32
+The baseline model performed better than the 7-day moving average model.
